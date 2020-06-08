@@ -5,4 +5,3 @@ $Jarfile = "Biscuicraft.jar.log";
 $totalJarLines = intval(exec('wc -l ' . $Jarfile));
 echo ($totalExeLines + $totalJarLines);
 ?>
-.
