@@ -1,2 +1,1 @@
 La valeur est 0 par défaut et s'incrémente chaque fois que le launchplus.php est appelé par la fonction "addonelaunch" du fichier "LauncherPanel.java" du launcher Biscuicraft.
-.
