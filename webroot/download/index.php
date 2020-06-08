@@ -12,3 +12,4 @@ if (isset($_REQUEST['file'])) {
 }
 exit('Bad request');
 ?>
+.
