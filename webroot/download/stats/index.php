@@ -22,4 +22,3 @@ foreach ($files as $file) {
 	}
 }
 ?>
-.
