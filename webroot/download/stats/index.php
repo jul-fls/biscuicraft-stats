@@ -22,3 +22,4 @@ foreach ($files as $file) {
 	}
 }
 ?>
+.
